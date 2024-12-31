@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AfterClass12.props" />
+</Project>
